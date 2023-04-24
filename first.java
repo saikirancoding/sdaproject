@@ -2,6 +2,11 @@
 class Test
 {
   
+  public void multiply()
+  {
+    System.out.println("multiply");
+  }
+  
   public void add()
   {
     System.out.println("Add function");
