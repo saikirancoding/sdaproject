@@ -11,4 +11,9 @@ class Test
   {
     System.out.println("Hello java");
   }
+  
+  void div()
+  {
+    System.out.println("div"):
+  }
 }
