@@ -1,6 +1,15 @@
 
 class Test
 {
+  void square()
+  {
+    System.out.println("In submodule");
+  }
+  
+  public void multiply()
+  {
+    System.out.println("multiply");
+  }
   
   public void add()
   {
